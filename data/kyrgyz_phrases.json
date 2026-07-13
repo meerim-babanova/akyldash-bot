@@ -1,0 +1,79 @@
+[
+  
+  {
+    "kyrgyz": "Салам",
+    "english": "Hello",
+    "pronunciation": "Sa-lam"
+  },
+  {
+    "kyrgyz": "Рахмат",
+    "english": "Thank you",
+    "pronunciation": "Rah-mat"
+  },
+  {
+    "kyrgyz": "Кандайсыз?",
+    "english": "How are you?",
+    "pronunciation": "Kan-dai-syz?"
+  },
+  {
+    "kyrgyz": "Жакшы",
+    "english": "Good / Fine",
+    "pronunciation": "Zhak-shy"
+  },
+  {
+    "kyrgyz": "Кош келиңиз",
+    "english": "Welcome",
+    "pronunciation": "Kosh ke-li-ngiz"
+  },
+  {
+    "kyrgyz": "Көрүшкөнчө",
+    "english": "See you later",
+    "pronunciation": "Kö-rüsh-kön-chö"
+  },
+  {
+    "kyrgyz": "Ооба",
+    "english": "Yes",
+    "pronunciation": "O-o-ba"
+  },
+  {
+    "kyrgyz": "Жок",
+    "english": "No",
+    "pronunciation": "Zhok"
+  },
+  {
+    "kyrgyz": "Сураныч",
+    "english": "Please",
+    "pronunciation": "Su-ra-nych"
+  },
+  {
+    "kyrgyz": "Кечиресиз",
+    "english": "Sorry / Excuse me",
+    "pronunciation": "Ke-chi-re-siz"
+  },
+  {
+    "kyrgyz": "Атыңыз ким?",
+    "english": "What is your name?",
+    "pronunciation": "A-ty-ngyz kim?"
+  },
+  {
+    "kyrgyz": "Менин атым ...",
+    "english": "My name is ...",
+    "pronunciation": "Me-nin a-tym ..."
+  },
+  {
+    "kyrgyz": "Мен түшүнбөй жатам",
+    "english": "I don't understand",
+    "pronunciation": "Men tüşün-böy zha-tam"
+  },
+  {
+    "kyrgyz": "Кайда?",
+    "english": "Where?",
+    "pronunciation": "Kai-da?"
+  },
+  {
+    "kyrgyz": "Канча турат?",
+    "english": "How much does it cost?",
+    "pronunciation": "Kan-cha tu-rat?"
+  }
+
+]

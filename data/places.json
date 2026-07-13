@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Song-Köl",
+    "region": "Naryn",
+    "description": "Beautiful alpine lake surrounded by summer pastures, traditional yurts, and nomadic culture.",
+    "bestTime": "June–September"
+  },
+  {
+    "name": "Issyk-Kul",
+    "region": "Issyk-Kul",
+    "description": "A famous mountain lake surrounded by the Tian Shan range, known for beaches, resorts, and breathtaking scenery.",
+    "bestTime": "June–September"
+  },
+  {
+    "name": "Ala-Archa National Park",
+    "region": "Chüy",
+    "description": "A stunning mountain park near Bishkek, featuring glaciers, hiking trails, and dramatic alpine landscapes.",
+    "bestTime": "May–October"
+  },
+  {
+    "name": "Sary-Chelek Biosphere Reserve",
+    "region": "Jalal-Abad",
+    "description": "A protected natural area famous for its crystal-clear alpine lake, forests, and diverse wildlife.",
+    "bestTime": "May–September"
+  },
+  {
+    "name": "Tash Rabat",
+    "region": "Naryn",
+    "description": "An ancient stone caravanserai from the Silk Road era, located in a mountain valley near the Chinese border.",
+    "bestTime": "May–September"
+  },
+  {
+    "name": "Burana Tower",
+    "region": "Chüy",
+    "description": "A historic minaret and archaeological site that remains from the ancient city of Balasagun.",
+    "bestTime": "April–October"
+  },
+  {
+    "name": "Skazka Canyon (Fairy Tale Canyon)",
+    "region": "Issyk-Kul",
+    "description": "A colorful canyon famous for its unusual rock formations shaped by wind and erosion.",
+    "bestTime": "May–October"
+  },
+  {
+    "name": "Karakol",
+    "region": "Issyk-Kul",
+    "description": "A mountain city known for its nearby ski resort, hiking routes, traditional markets, and cultural landmarks.",
+    "bestTime": "June–September"
+  }
+]

@@ -1,0 +1,39 @@
+[
+   [
+  {
+    "name": "Nooruz",
+    "date": "March 21",
+    "description": "Spring equinox celebration marking the beginning of the new year in many Central Asian cultures. It is celebrated with traditional foods, games, and family gatherings."
+  },
+  {
+    "name": "Independence Day",
+    "date": "August 31",
+    "description": "A national holiday celebrating Kyrgyzstan's independence from the Soviet Union in 1991. It is marked with concerts, ceremonies, and cultural events."
+  },
+  {
+    "name": "Victory Day",
+    "date": "May 9",
+    "description": "A day honoring the victory over Nazi Germany in World War II and remembering the sacrifices of those who fought."
+  },
+  {
+    "name": "New Year",
+    "date": "January 1",
+    "description": "A widely celebrated holiday marking the beginning of the new calendar year with family gatherings, decorations, and festivities."
+  },
+  {
+    "name": "Eid al-Fitr",
+    "date": "Varies by Islamic lunar calendar",
+    "description": "An Islamic holiday celebrating the end of Ramadan with prayers, family visits, and traditional meals."
+  },
+  {
+    "name": "Eid al-Adha",
+    "date": "Varies by Islamic lunar calendar",
+    "description": "An Islamic holiday of sacrifice celebrated with prayers, charity, and gatherings with family and friends."
+  },
+  {
+    "name": "Ait Day (Kurban Ait)",
+    "date": "Varies by Islamic lunar calendar",
+    "description": "A significant religious holiday in Kyrgyzstan where people visit relatives, share meals, and help those in need."
+  }
+]
+]

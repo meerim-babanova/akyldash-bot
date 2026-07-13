@@ -1,0 +1,30 @@
+[
+   {
+   "name": "Beshbarmak",
+   "description": "Traditional boiled meat served with noodles."
+   },
+   {
+   "name": "Kuurdak",
+   "description": "A traditional Central Asian dish made from fried meat (usually lamb, beef, or horse meat) cooked with onions and potatoes. It is known for its rich flavor and hearty nature. "
+   },
+   {
+   "name": "Manty",
+   "description": "Steamed dumplings filled with minced meat and onions, commonly served with sour cream or a spicy sauce."
+   },
+   {
+   "name": "Lagman",
+   "description": "A noodle dish made with hand-pulled noodles, vegetables, and meat in a flavorful broth or sauce."
+   },
+   {
+   "name": "Plov",
+   "description": "A rice dish cooked with meat, carrots, onions, and spices, popular throughout Central Asia."
+   },
+   {
+   "name": "Boorsok",
+   "description": "Small pieces of fried dough traditionally served with tea, honey, or jam during celebrations and gatherings."
+   },
+   {
+   "name": "Kymyz",
+   "description": "A traditional fermented drink made from mare's milk, valued for its unique taste and cultural importance."
+   }
+]

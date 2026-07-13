@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Issyk-Kul",
+    "elevation": "1607 m",
+    "fact": "One of the world's largest alpine lakes and the second-largest saline lake after the Caspian Sea. It is surrounded by the Tian Shan mountains and is a major tourist destination."
+  },
+  {
+    "name": "Song-Köl",
+    "elevation": "3016 m",
+    "fact": "A beautiful high-mountain lake famous for its summer pastures, traditional yurts, and nomadic culture."
+  },
+  {
+    "name": "Chatyr-Köl",
+    "elevation": "3530 m",
+    "fact": "A high-altitude lake located near the Torugart Pass, known for its clear waters and remote mountain scenery."
+  },
+  {
+    "name": "Sary-Chelek",
+    "elevation": "1873 m",
+    "fact": "A stunning alpine lake surrounded by forests and mountains, located in the Sary-Chelek Biosphere Reserve."
+  },
+  {
+    "name": "Kel-Suu",
+    "elevation": "3514 m",
+    "fact": "A remote turquoise mountain lake famous for its dramatic cliffs, hidden valleys, and breathtaking scenery."
+  },
+  {
+    "name": "Ala-Köl",
+    "elevation": "3532 m",
+    "fact": "A high-altitude glacial lake in the Tian Shan mountains, popular among hikers for its crystal-clear blue waters and mountain views."
+  }
+]
